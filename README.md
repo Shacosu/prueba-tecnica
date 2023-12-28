@@ -13,15 +13,15 @@ El objetivo de la prueba técnica fue recorrer un diccionario y utilizar React p
 
 ## Instalacion
 ```bash
-   git clone https://github.com/Shacosu/prueba-tecnica
+git clone https://github.com/Shacosu/prueba-tecnica
 ```
 
 ```bash
-   pnpm install
+pnpm install
 ```
 
 ```bash
-   pnpm run dev
+pnpm run dev
 ```
 
 ## Capturas de Pantalla
