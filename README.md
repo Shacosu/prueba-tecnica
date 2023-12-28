@@ -13,8 +13,21 @@ El objetivo de la prueba técnica fue recorrer un diccionario y utilizar React p
 
 ## Capturas de Pantalla
 
-![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/5cd1c985-4c3b-48a4-8e21-9a113fdb4835)
+![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/2af8245c-ee04-464c-9804-4ffba30ab66b)
 
-![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/91258fbe-dc96-4621-b22a-a89c9c398d5c)
+![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/00571d40-923a-4ed7-8666-ae67cf78ab34)
 
-![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/d7310f1c-807c-48c4-b9ed-ddaa81fd0171)
+![image](https://github.com/Shacosu/prueba-tecnica/assets/73619699/443d46ae-24a0-43fa-8701-879d3744c4e0)
+
+## Instalacion
+```bash
+   git clone https://github.com/Shacosu/prueba-tecnica
+```
+
+```bash
+   pnpm install
+```
+
+```bash
+   pnpm run dev
+```
